@@ -1,0 +1,146 @@
+{
+    "join": [
+        {
+            "threadID": "5556442971082682",
+            "status": false
+        },
+        {
+            "threadID": "3300866866642108",
+            "status": true
+        },
+        {
+            "threadID": "5885468938142520",
+            "status": true
+        },
+        {
+            "threadID": "4743960632338191",
+            "status": true
+        },
+        {
+            "threadID": "5855642881210699",
+            "status": false
+        },
+        {
+            "threadID": "6502519466530238",
+            "status": false
+        },
+        {
+            "threadID": "6508461065858233",
+            "status": false
+        },
+        {
+            "threadID": "9194392737253399",
+            "status": false
+        },
+        {
+            "threadID": "24008226332124588",
+            "status": false
+        },
+        {
+            "threadID": "6625459097507069",
+            "status": false
+        },
+        {
+            "threadID": "9989218511150395",
+            "status": true
+        },
+        {
+            "threadID": "7752533651442387",
+            "status": true
+        },
+        {
+            "threadID": "6834871869889629",
+            "status": true
+        },
+        {
+            "threadID": "7318352114882091",
+            "status": true
+        },
+        {
+            "threadID": "7793679957326857",
+            "status": true
+        },
+        {
+            "threadID": "6878534095548019",
+            "status": false
+        },
+        {
+            "threadID": "6820835547956155",
+            "status": true
+        },
+        {
+            "threadID": "7569858269738965",
+            "status": false
+        },
+        {
+            "threadID": "7884438118283739",
+            "status": true
+        },
+        {
+            "threadID": "25874289808883865",
+            "status": false
+        },
+        {
+            "threadID": "7981106285268456",
+            "status": true
+        },
+        {
+            "threadID": "6589198804475799",
+            "status": true
+        },
+        {
+            "threadID": "7921054324596481",
+            "status": true
+        }
+    ],
+    "leave": [
+        {
+            "threadID": "5556442971082682",
+            "status": false
+        },
+        {
+            "threadID": "5885468938142520",
+            "status": true
+        },
+        {
+            "threadID": "4743960632338191",
+            "status": true
+        },
+        {
+            "threadID": "6245529198893229",
+            "status": false
+        },
+        {
+            "threadID": "6326347894117284",
+            "status": false
+        },
+        {
+            "threadID": "5762680530483088",
+            "status": true
+        },
+        {
+            "threadID": "5855642881210699",
+            "status": false
+        },
+        {
+            "threadID": "4216524055084248",
+            "status": false
+        },
+        {
+            "threadID": "6336702966406733",
+            "status": true
+        },
+        {
+            "threadID": "7318352114882091",
+            "status": true
+        },
+        {
+            "threadID": "6878534095548019",
+            "status": false
+        },
+        {
+            "threadID": "7981106285268456",
+            "status": false
+        }
+    ]
+}
